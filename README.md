@@ -1,3 +1,3 @@
 # rock-paper-scissors
 
-hallo
+Rock paper scissors game for the Odin Project
